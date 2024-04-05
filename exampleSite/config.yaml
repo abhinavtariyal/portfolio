@@ -144,6 +144,9 @@ params:
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
+      fontAwesomeIcons:
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/abhinav-tariyal
 
   # About
   about:
