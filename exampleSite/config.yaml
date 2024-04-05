@@ -225,7 +225,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Information Systes"
+      - title: "Master of Business Information System"
         school:
           name: "Monash University, Melbourne"
           url: "https://www.monash.edu/"
