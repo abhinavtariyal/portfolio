@@ -151,17 +151,17 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a software developer with a passion for web development. I have a background in computer science, and I have a strong interest in technology. I am currently working as a software developer at Grouptag/Huddled in Melbourne. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on a project that will be used by students to collaborate and communicate with their course mates.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
+        - "Svelte"
+        - "Next.js"
         - "React"
+        - "MongoDB"
         - "Node"
         - "Express"
 
@@ -170,10 +170,10 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Full Stack Developer"
+        company: "Grouptag/Hudlled"
+        companyUrl: "https://www.huddled.net/"
+        date: "Oct 2023 - present"
         featuredLink:
           enable: true
           name: "View the project"
@@ -236,42 +236,41 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Business Information Systes"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Monash University, Melbourne"
+          url: "https://www.monash.edu/"
+        date: "2020 - 2022"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+            - Was part of the University Football team
+            - Participated in Badminton Competition
+      - title: "Bachelor of Technology in Computer Science"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "Graphic Era University"
+          url: "https://geu.ac.in/"
+        date: "2014 - 2018"
+        GPA: "8.58 out of 10.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          I worked on the project such as Image Detection and IOT for Home.
+          - Fast and Accurate Object Detection with a Single Convolutional Neural Network
+          - Training the model to gain an accuracy of 95%
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+            - Won the Inter-College Football Competition. 
+            - Helped in Organising  Fests in the University
+      #   featuredLink:
+      #     enable: true
+      #     name: "My academic record"
+      #     url: "https://example.com"
+      # - title: "High School"
+      #   school:
+      #     name: "Thomas Jefferson High School for Science and Technology."
+      #     url: "https://example.org"
+      #   GPA: "4.2 out of 5.0"
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
 
   # Achievements
   achievements:
