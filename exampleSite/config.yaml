@@ -185,7 +185,7 @@ params:
         companyUrl: "https://www.redlandimmigration.com/"
         date: "May 2023 - Oct 2023"
         featuredLink:
-          enable: false
+          enable: true
           url: "https://www.redlandimmigration.com/"
         info:
           enable: true
