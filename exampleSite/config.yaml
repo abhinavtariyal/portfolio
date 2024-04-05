@@ -171,14 +171,15 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+     
       - job: "Full Stack Developer"
         company: "Grouptag/Hudlled"
-        companyUrl: "https://www.huddled.net/"
+        companyUrl: "https://www.huddled.net"
         date: "Oct 2023 - present"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://web.huddled.net/"
+          url: "https://web.huddled.net"
         content: "I am currently working as a full stack developer at Huddled, Melbourne. I am currently working on a project that will be used by students to collaborate and communicate with their course mates"
 
       - job: "Full Stack Developer"
