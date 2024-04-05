@@ -141,9 +141,9 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/abhinavtariyal
-      fontAwesomeIcons:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/abhinav-tariyal
+        
 
   # About
   about:
