@@ -182,7 +182,7 @@ params:
         content: |
         I am currently working as a full stack developer at Huddled, Melbourne. I am currently working on a project that will be used by students to collaborate and communicate with their course mates.
 
-        - Led the development of a full-stack web application utilizing the Svelte Framework, Tailwind CSS, and Supabase. Successfully launched the application, achieving number of 1000 active users, 30% more sign-ups within 2 weeks exhibiting problem solving and creative skills.
+        - Led the development of a full-stack web application utilizing the Svelte Framework, Tailwind CSS, and Supabase. 
         - Communicated and collaborated with cross-functional team members of UI/UX designers and mobile-app development team to successfully deliver front-end web application 3 weeks before the schedule.
         - Create an intuitive dashboard by harnessing the power of data analytics tools such as Power BI, complemented by Python libraries including NumPy and Pandas.
 
@@ -213,7 +213,7 @@ params:
           enable: true
           url: "https://dxc.com/au/en"
         content: |
-          Contributed to the development of Vitae and Vitae Go, web and mobile applications respectively, aimed at enhancing user experiences in healthcare. Implemented strategies to improve the SEO of the applications, enhancing their visibility and discoverability.
+          Contributed to the development of Vitae and Vitae Go, web and mobile applications respectively, aimed at enhancing user experiences in healthcare.
 
           - Implemented server-side rendering and transitioned app management from redux to redux-toolkit, resulting in a 30% reduction in application response time and significant performance improvements.
           - Ensured website responsiveness across various mobile devices, achieving a score of 90+ on Google's Mobile-Friendly Test, enhancing user experience and accessibility.
