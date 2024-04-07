@@ -172,7 +172,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Full Stack Developer"
-        company: "Hudlled"
+        company: "Huddled"
         companyUrl: "https://www.huddled.net"
         date: "Oct 2023 - present"
         featuredLink:
