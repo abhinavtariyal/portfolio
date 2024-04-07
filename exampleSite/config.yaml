@@ -231,6 +231,10 @@ params:
           url: "https://www.monash.edu/"
         date: "2020 - 2022"
         content: |-
+          I worked on a project called Your Wellbeing.
+          - Designed and implemented the front-end of the website, including the login, homepage.
+          - Developed the functionality which calculated anxiety and stress level of the user based on input by the user.
+
           Extracurricular Activities
             - Was part of the University Football team
             - Participated in Badminton Competition
@@ -339,7 +343,7 @@ params:
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:abhinavtariyal2@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -347,12 +351,12 @@ params:
     #   messageCaption: "Enter your message here"
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
+    # recentPosts:
+    #   path: "blogs"
+    #   count: 3
+    #   title: Recent Posts
+    #   enable: true
+    #   disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
       linkedin: https://linkedin.com
