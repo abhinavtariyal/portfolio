@@ -347,7 +347,7 @@ params:
     formspree:
       enable: true # `contact.email` value will be ignored
       formId: xpzvopap # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-      emailCaption: "abhinavtariyal2@gmail.com"
+      emailCaption: "abc@gmail.com"
       messageCaption: "Enter your message here"
 
   footer:
