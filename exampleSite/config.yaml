@@ -346,7 +346,7 @@ params:
     btnLink: mailto:abhinavtariyal2@gmail.com
     formspree:
       enable: true # `contact.email` value will be ignored
-       #formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+      formId: xpzvopap # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
       emailCaption: "abhinavtariyal2@gmail.com"
       messageCaption: "Enter your message here"
 
