@@ -294,7 +294,7 @@ params:
     items:
       - title: Redland Immigration Website
         content: A website based on UI/UX design principles. Created with SEO optimzation techniques. Faster load time and low redundancy.
-        image: /images/projects/profile.png
+        image: /redland.png
         featured:
           name: Demo
           link: https://www.redlandimmigration.com
