@@ -347,7 +347,7 @@ params:
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
+      emailCaption: "abhinavtariyal2@gmail.com"
     #   messageCaption: "Enter your message here"
 
   footer:
@@ -358,11 +358,8 @@ params:
     #   enable: true
     #   disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/abhinavtariyal
+      linkedin: https://www.linkedin.com/in/abhinav-tariyal
 
   # List pages like blogs and posts
   listPages:
